@@ -1,0 +1,14 @@
+vel=0.3,edgel=-0.5,white=1:dist=0.1
+vel=0.3,edgel=-0.5,white=1:lv=0
+vel=0.3, white=0,acc=1:dist=0.4
+vel=0.4,tr=0:turn=-88
+vel=0.4:dist=1.68
+vel=0.4,tr=0:turn=89
+vel=0.4,acc=1:dist=2.15
+tr=0:turn=85
+vel=-0.4:time=4
+vel=0.4:dist=1.18
+vel=0.4,tr=0:turn=90
+vel=-0.4:time=4.5
+event=1,vel=0:time=0.5
+:dist=1

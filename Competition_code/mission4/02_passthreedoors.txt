@@ -1,0 +1,15 @@
+vel=0:time=1
+vel=0:ir2<0.7
+vel=0.0:time=3
+tr=0,vel=0.4, white=0:turn=39
+vel=0.5,acc=2, white=0:dist=0.65
+vel=0,servo=2,pservo=-550,vservo=0:time=1
+vel=0.55,acc=3:dist=0.25
+vel=0,acc=4,servo=2,pservo=700,vservo=0:time=1
+vel=0:time=1
+vel=0.3,tr=0.1:turn=43
+vel=0.3:dist=0.2
+vel=0.4,acc=1,tr=0.455:turn=-160
+vel=0.4,tr=0.435:turn=-130
+event=2,vel=0:time=0.5
+:dist=1

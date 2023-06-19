@@ -1,0 +1,19 @@
+vel=0.3, edger=-0.5, white=1:dist=0.1
+vel=0.3, edger=-0.5, white=1:dist=0.76
+vel=0.4,tr=0:turn=-63
+vel=0:time=0.5
+vel=0.35:dist=0.17
+vel=0,acc=3,servo=2,pservo=-325,vservo=0:time=1
+vel=-0.4:dist=0.22
+vel=0,acc=4:time=0.5
+vel=0.5,tr=0:turn=-105
+vel=0.4,edgel=-0.5, white=1:dist=0.3
+vel=0.3,white=0:dist=0.29
+label=1
+vel=0, servo=2,pservo=-300,vservo=0:time=1
+vel=0.25,tr=0:turn=-35
+vel=0.25,tr=0:turn=40
+goto=1:count=1
+vel=0:time=1
+event=6,vel=0:time=1
+:dist=1

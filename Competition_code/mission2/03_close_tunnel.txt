@@ -1,0 +1,18 @@
+vel=0.8,acc=2:dist=1.1
+vel=0.4,acc=4,tr=0:turn=-88
+vel=0.4:dist=0.4
+vel=0.4,tr=0:turn=88
+vel=-0.4:time=4
+vel=0.3:dist=0.3
+vel=0.4, tr=0:turn=-85
+vel=-0.4:time=5
+vel=0.4:dist=1.45
+vel=0.4, tr=0:turn=-84
+vel=0:time=1
+vel=0.5,acc=1:dist=1.1
+vel=0.4,tr=0:turn=-88
+vel=0.4,acc=2:dist=0.7
+vel=0.4,tr=0:turn=88
+vel=-0.4:time=4
+event=3,vel=0:time=0.5
+:dist=1

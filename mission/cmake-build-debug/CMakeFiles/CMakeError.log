@@ -1,0 +1,50 @@
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: E:/Exercise_data/ROBOTCUP/mission/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/CLion 2021.3.2/bin/ninja/win/ninja.exe cmTC_5ea7c && [1/2] Building C object CMakeFiles/cmTC_5ea7c.dir/src.c.obj
+[2/2] Linking C executable cmTC_5ea7c.exe
+FAILED: cmTC_5ea7c.exe 
+cmd.exe /C "cd . && "D:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin\gcc.exe"   CMakeFiles/cmTC_5ea7c.dir/src.c.obj -o cmTC_5ea7c.exe -Wl,--out-implib,libcmTC_5ea7c.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+CMakeFiles/cmTC_5ea7c.dir/src.c.obj:src.c:(.text+0x35): undefined reference to `pthread_create'
+CMakeFiles/cmTC_5ea7c.dir/src.c.obj:src.c:(.text+0x41): undefined reference to `pthread_detach'
+CMakeFiles/cmTC_5ea7c.dir/src.c.obj:src.c:(.text+0x4d): undefined reference to `pthread_cancel'
+CMakeFiles/cmTC_5ea7c.dir/src.c.obj:src.c:(.text+0x5e): undefined reference to `pthread_join'
+CMakeFiles/cmTC_5ea7c.dir/src.c.obj:src.c:(.text+0x68): undefined reference to `pthread_exit'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: E:/Exercise_data/ROBOTCUP/mission/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/CLion 2021.3.2/bin/ninja/win/ninja.exe cmTC_06312 && [1/2] Building C object CMakeFiles/cmTC_06312.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_06312.exe
+FAILED: cmTC_06312.exe 
+cmd.exe /C "cd . && "D:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin\gcc.exe" -DCHECK_FUNCTION_EXISTS=pthread_create  CMakeFiles/cmTC_06312.dir/CheckFunctionExists.c.obj -o cmTC_06312.exe -Wl,--out-implib,libcmTC_06312.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lpthreads  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+D:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lpthreads
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+

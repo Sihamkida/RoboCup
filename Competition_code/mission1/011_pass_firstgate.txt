@@ -1,0 +1,15 @@
+vel=0:time=0.2
+servo=2,pservo=700,vservo=0:time=1
+vel=0.4,edgel=-0.5, white=1:dist=0.5
+vel=0.7, acc=2, edgel=-0.5, white=1:dist=8.5
+vel=0.0:time=0.5
+vel=0.5, acc=2, edgel=-0.5, white=1:dist=2.0
+event=2,vel=0,edgel=-0.5, white=1:time=1
+:dist=1
+
+
+
+
+
+
+

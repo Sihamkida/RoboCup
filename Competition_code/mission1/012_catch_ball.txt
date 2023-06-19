@@ -1,0 +1,15 @@
+vel=0.4, edgel=-0.5, white=1:xl>16
+vel=0.4, tr=0.05:turn=87
+vel=0.3, edgel=-0.5, white=1:dist=0.6
+vel=-0.3,white=0:time=4
+vel=0.3, edgel=-0.5, white=1:dist=0.96
+vel=0:time=0.5
+servo=2,pservo=200,vservo=0:time=1
+:time=0.5
+servo=2,pservo=-330,vservo=0:time=1
+vel=0.3, edgel=-0.5,white=1:lv=0
+vel=0.3:time=1
+vel=0.5, tr=0:turn=-20
+vel=0.4:lv>0
+event=3,vel=0,edgel=-0.5,white=1:time=0.5
+:dist=1

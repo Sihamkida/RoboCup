@@ -1,0 +1,107 @@
+[
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\main.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\main.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/main.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\urun.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\urun.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/urun.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\ucamera.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\ucamera.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/ucamera.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\ubridge.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\ubridge.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/ubridge.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\umission.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\umission.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/umission.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\utime.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\utime.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/utime.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\tcpCase.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\tcpCase.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/tcpCase.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\uevent.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\uevent.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/uevent.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\ujoy.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\ujoy.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/ujoy.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\uinfo.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\uinfo.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/uinfo.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\umotor.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\umotor.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/umotor.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\uedge.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\uedge.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/uedge.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\upose.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\upose.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/upose.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\uirdist.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\uirdist.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/uirdist.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\uaccgyro.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\uaccgyro.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/uaccgyro.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\uaruco.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\uaruco.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/uaruco.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\ulibpose2pose.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\ulibpose2pose.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/ulibpose2pose.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\ulib2dline.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\ulib2dline.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/ulib2dline.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\ulibpose.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\ulibpose.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/ulibpose.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\ulibposev.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\ulibposev.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/ulibposev.cpp"
+},
+{
+  "directory": "E:/Exercise_data/ROBOTCUP/mission/build",
+  "command": "\"D:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"  @CMakeFiles/mission.dir/includes_CXX.rsp  -Wall -pedantic -std=c++11  -Wno-psabi -g -o CMakeFiles\\mission.dir\\ucamera_v4l2.cpp.obj -c E:\\Exercise_data\\ROBOTCUP\\mission\\ucamera_v4l2.cpp",
+  "file": "E:/Exercise_data/ROBOTCUP/mission/ucamera_v4l2.cpp"
+}
+]

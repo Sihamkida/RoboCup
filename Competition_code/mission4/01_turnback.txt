@@ -1,0 +1,13 @@
+vel=0.35,tr=0:turn=-87
+vel=0.35,tr=0:turn=-88
+vel=0:time=1
+vel=0.2:dist=0.08
+vel=0.3,acc=1,edger=-0.4,white=1:dist=0.8
+vel=0.4,acc=1,edger=0,white=1:dist=0.5
+vel=0.4,acc=1,edger=0.5,white=1:dist=0.5
+vel=0.4, edgel=-0.5, white=1:xl>16
+vel=0:time=0.5
+vel=0.3, tr=0:turn=88
+vel=0.2, edgel=-0.8, white=1:dist=0.35
+event=1,vel=0:time=0.5
+:dist=1

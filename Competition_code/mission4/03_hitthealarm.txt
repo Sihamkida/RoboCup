@@ -1,0 +1,15 @@
+vel=0.4,tr=0:turn=32
+vel=0:ir2<0.6
+vel=0:time=3
+vel=0.3,acc=1:lv>0
+vel=0.4,tr=0:turn=-90
+vel=0:time=1
+vel=0.4,edger=-0.5,white=1:dist=2.3
+vel=0:time=0.5
+vel=0.3:dist=0.5
+vel=0:time=1
+vel=0.3:lv>0
+vel=0.4,tr=0:turn=65
+vel=0.3,edgel=-0.5,white=1:time=4
+event=3,vel=0:time=0.5
+:dist=1

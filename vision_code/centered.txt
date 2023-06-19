@@ -1,0 +1,2 @@
+event=1,vel=0:time=0.5
+:dist=1
